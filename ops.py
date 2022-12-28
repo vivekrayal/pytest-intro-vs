@@ -1,3 +1,6 @@
+"""Module docs."""
+# pylint: disable=too-few-public-methods, invalid-name
+
 def add(xvar, yvar):
     return xvar+yvar
 
