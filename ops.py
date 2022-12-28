@@ -1,11 +1,11 @@
-def add(x, y):
-    return x+y
+def add(xvar, yvar):
+    return xvar+yvar
 
-def subtract(x, y):
-    return x-y
+def subtract(xvar, yvar):
+    return xvar-yvar
 
-def multiply(x, y):
-    return x*y
+def multiply(xvar, yvar):
+    return xvar*yvar
 
-def divide(x, y):
-    return x/y
+def divide(xvar, yvar):
+    return xvar/yvar
